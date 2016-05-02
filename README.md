@@ -1,5 +1,5 @@
 # QuantEcon  
-ここではQuantEcon[リンク](http://quant-econ.net/)で扱う内容の日本語訳や練習問題の自分の解答を作成し公開している。  
+ここでは[QuantEcon](http://quant-econ.net/)で扱う内容の日本語訳や練習問題の自分の解答を作成し公開している。  
 言語はPythonまたはJuliaである。  
 
 ### Python  
