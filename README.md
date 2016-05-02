@@ -3,7 +3,7 @@
 言語はPythonまたはJuliaである。  
 
 ### Python  
-[Shortest Paths:Python](Shortest_Paths_py)  
+[Shortest Paths:Python](Shortest_Paths_py.ipynb)  
 
 ### Julia  
-[An Introductory Example:Julia](An_Introductory_Example_jl)
+[An Introductory Example:Julia](An_Introductory_Example_jl.ipynb)
