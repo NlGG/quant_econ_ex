@@ -3,7 +3,7 @@
 言語はPythonまたはJuliaである。  
 
 ### Python  
-[Shortest Paths:Python](Shortest_Paths_py.ipynb)  
+[Shortest Paths:Python](http://nbviewer.jupyter.org/github/NlGG/quant_econ_ex/blob/master/Shortest_Paths_py.ipynb)  
 
 ### Julia  
 [An Introductory Example:Julia](An_Introductory_Example_jl.ipynb)
